@@ -14,4 +14,4 @@ Hey 👋, my name is Kunal and I have started my journey as a web developer. To 
 ## SEO Master <a name="seo-master"></a>
 
 <img src="https://cdn.discordapp.com/attachments/950339822118133800/1063102542520791040/output.png">
-SEO Master was the first project that I built as a part of my journey to learn web development. <a src="https://github.com/Kunalll1/seo-master/blob/master/redme.md">Read More</a>
+SEO Master was the first project that I built as a part of my journey to learn web development. [Read More] (https://github.com/Kunalll1/seo-master/blob/master/redme.md)
