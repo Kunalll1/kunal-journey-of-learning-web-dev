@@ -27,65 +27,19 @@ Hey 👋, my name is Kunal and I have started my journey as a web developer. To 
       </div>
     </div>
     <!-- second -->
-      <div class="card">
+      <div style="margin-top:4rem;display: flex;flex-direction: column;align-items: center;justify-content: center;width: 100vw;">
      <img
         src="https://raw.githubusercontent.com/anuragtiwarime/fsjs2/main/Week%2003/Project%2002/output.png"
         class="card-img shadow"
         alt="image-description"
       />
-      <div class="card-body shadow">
-        <div class="card-header">Crypto-Market</div>
-        <p class="card-text">
+      <div style="display:flex;flex-direction: column;align-items: flex-start;gap:0.8rem;padding: 1.2rem;box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;">
+        <div class="card-header" style="font-family: inherit;font-size: 2rem;font-weight: 700;">Crypto-Market</div>
+        <p class="card-text" style="font-family: inherit;font-size: 1rem;">
           SEO Master was the first project that I built as a part of my journey
           to learn web development.
         </p>
-        <a href="https://github.com/Kunalll1/seo-master" class="btn">Learn More</a>
+        <a href="https://github.com/Kunalll1/seo-master" class="btn" style="font-family: inherit;font-size: 0.8rem;text-decoration: none;background-color: #0170bc;color: #d0d8dc;padding: 0.6rem 1.4rem;border-radius: 0.4rem;">Learn More</a>
       </div>
     </div>
     <!-- Third -->
-    <style>
-      .card {
-        margin-top:4rem;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        width: 100vw;
-      }
-      .card-img {
-        height: 60vh;
-      }
-      .shadow {
-        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-      }
-      .card-body {
-        display:flex;
-        flex-direction: column;
-        align-items: flex-start;
-        gap:0.8rem;
-        padding: 1.2rem;
-        width: 63vw;
-      }
-      .card-header {
-        font-family: inherit;
-        font-size: 2rem;
-        font-weight: 700;
-      }
-      .card-text {
-        font-family: inherit;
-        font-size: 1rem;
-      }
-      .btn {
-        font-family: inherit;
-        font-size: 0.8rem;
-        text-decoration: none;
-        background-color: #0170bc;
-        color: #d0d8dc;
-        padding: 0.6rem 1.4rem;
-        border-radius: 0.4rem;
-      }
-      .btn:hover {
-        background-color: #0170bc;
-        color: #d0d8dc;
-      }
-    </style>
